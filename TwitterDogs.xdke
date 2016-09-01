@@ -1,0 +1,93 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "README.md": {
+        "previousModTime": 1465406192000,
+        "modified": 1465406192000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "TwitterDogs.xdk": {
+        "previousModTime": 1472565322000,
+        "modified": 1472565322000,
+        "seen": true,
+        "name": "TwitterDogs.xdk"
+      },
+      "TwitterDogs.xdke": {
+        "previousModTime": 1472693151000,
+        "modified": 1472693151000,
+        "seen": true,
+        "name": "TwitterDogs.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1465406192000,
+        "modified": 1465406192000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1472693129000,
+        "modified": 1472693129000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1465406192000,
+        "modified": 1465406192000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "public/index.html": {
+        "previousModTime": 1472688019000,
+        "modified": 1472688019000,
+        "seen": true,
+        "name": "public/index.html"
+      },
+      "public/script.js": {
+        "previousModTime": 1465406192000,
+        "modified": 1465406192000,
+        "seen": true,
+        "name": "public/script.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1465406192000,
+        "modified": 1465406192000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "TwitterDogs_2.0.0.xdk_bak": {
+        "previousModTime": 1472565282000,
+        "modified": 1472565282000,
+        "seen": true,
+        "name": "TwitterDogs_2.0.0.xdk_bak"
+      },
+      "TwitterDogs_2.0.0.xdke_bak": {
+        "previousModTime": 1472565282000,
+        "modified": 1472565282000,
+        "seen": true,
+        "name": "TwitterDogs_2.0.0.xdke_bak"
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1472565282000,
+        "modified": 1472565282000,
+        "seen": true,
+        "name": "xdk-publish-meta-data.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1472693156826
+      }
+    }
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  }
+}
